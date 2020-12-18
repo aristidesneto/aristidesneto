@@ -6,7 +6,7 @@ Desde 2010 tenho contato com programação, iniciei desenvolvendo e mantendo a i
 
 Em 2019, comecei a trabalhar full time com programação, conhecendo novas tecnologias e novos desafios.
 
-Hoje além de programar em PHP/MySQL, venho sempre estudando sobre servidores Linux, automatização e provisionamento.
+Hoje além de programar em PHP/MySQL, venho sempre estudando sobre servidores Linux, automação e provisionamento.
 
 **Skills:**
 
