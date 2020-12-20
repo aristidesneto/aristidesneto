@@ -1,6 +1,6 @@
 # Sobre mim
 
-Opa, me chamo Aristides Neto e sou de São José dos Campos interior de São Paulo.
+Opa, me chamo Aristides Neto e sou de São José dos Campos/SP.
 
 Desde 2010 tenho contato com programação, iniciei desenvolvendo e mantendo a intranet da empresa onde trabalhava como suporte de informática.
 
