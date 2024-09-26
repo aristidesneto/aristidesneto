@@ -13,11 +13,10 @@
 
 - 💬 Ask me about **DevOps, Linux, Monitoring**
 
-- 📄 Know about my experiences [Desde 2010 tenho contato com programação, iniciei desenvolvendo e mantendo a intranet da empresa onde trabalhava como suporte de informática. Em 2019, comecei a trabalhar full time com programação, conhecendo novas tecnologias e novos desafios. Em 2022 migrei para área de Cloud atuando como DevSecOps, diretamente com Kubernetes, CI/CD, ferramentas de monitoramento e automação de processos e rotinas.](Desde 2010 tenho contato com programação, iniciei desenvolvendo e mantendo a intranet da empresa onde trabalhava como suporte de informática. Em 2019, comecei a trabalhar full time com programação, conhecendo novas tecnologias e novos desafios. Em 2022 migrei para área de Cloud atuando como DevSecOps, diretamente com Kubernetes, CI/CD, ferramentas de monitoramento e automação de processos e rotinas.)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aristidesbneto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aristidesbneto/" height="30" width="40" /></a>
+<a href="https://medium.com/@aristidesbneto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aristidesbneto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
